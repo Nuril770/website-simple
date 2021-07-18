@@ -8,3 +8,6 @@
 
 ### Html Part 3 itu Tentang Hyperlink
 [Html Part 3](https://github.com/Nuril770/website-simple/tree/master/html%20part%203)
+
+### Html Part 4 itu tentang HTML Image
+[Html Part 4](https://github.com/Nuril770/website-simple/tree/master/html%20part%204)
